@@ -10,8 +10,8 @@ These have two blogs
    - In this blog i wrote about difference between HTTP1.1 vs HTTP2
 
 2. Creating a blog about objects and its internal representation in Javascript
-   - Link for the blog [CLICK HERE](https:mediumcom@sreeramuidesignerblog-about-objects-and-its-internal-representation-in-javascript-5767f826b77e
-   )
+   - Link for the blog [CLICK HERE](https://medium.com/@sreeramuidesigner/blog-about-objects-and-its-internal-representation-in-javascript-5767f826b77e)
+   
    - In this blog i wrote about objects and its internal representataion in javascript
 
 
